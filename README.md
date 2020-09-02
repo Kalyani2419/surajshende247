@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=surajshende247&show_icons=true&line_height=30)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/surajshende247/surajshende247">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajshende247"/>
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+<a href="https://github.com/surajshende247/surajshende247">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajshende247&show_icons=true alt="Suraj's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
