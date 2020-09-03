@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram logo" width="24">](https://www.instagram.com/suraj_247/) |  [<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter logo" width="34">](https://twitter.com/surajshende247) |  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="facebook logo" width="24">](https://www.facebook.com/surajshende247) |  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/surajshende247/) |  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail logo" width="24">](mailto:surajshende247@gmail.com)
+| [<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github logo" width="34">](https://github.com/surajshende247) |  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram logo" width="24">](https://www.instagram.com/suraj_247/) |  [<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter logo" width="34">](https://twitter.com/surajshende247) |  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="facebook logo" width="24">](https://www.facebook.com/surajshende247) |  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/surajshende247/) |  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail logo" width="24">](mailto:surajshende247@gmail.com)
 |---|---|---|---|---|---|
 
 ----
