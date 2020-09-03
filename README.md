@@ -14,9 +14,9 @@ A student at Lovely Professional University,Jalandhar, India, pursuing bachelor�
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+I set a couple self-challenges in order to push myself more further. 
 
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code 6-9 hours a day with no distraction.
 * Read a book a week
 * Workout 3 days in a row and take a day break 
 * Avoid the over using social media
