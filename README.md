@@ -9,16 +9,14 @@ A student at Lovely Professional University,Jalandhar, India, pursuing bachelor�
 * Doing bachelor's degree in Computer Science & Engineering
 * Working on Machine Learning concepts.
 * Creating awesome videos on Android Development for my YouTube Channel
-* Inquiring more about UX/UI.  
-* Looking forward to take a ML Courses in future besides school curriculum. 
-* 🔜
+* Doing InterviewBit course on Programming
 
 ### 🌱 Challenges that I’m currently challenging myself:
 I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction.
 * Do all the three contests every month on codechef.
-* 🔜
+
 
 <!--
 **surajshende247/surajshende247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
