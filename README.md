@@ -2,7 +2,7 @@
 
 ### I'm Suraj Shende, 
 
-A student at Lovely Professional University,Jalandhar, India, pursuing bachelor’s degree in Computer Science & Engineering. 👨🏻‍💻 
+Just a student who loves to write code.
 
 
 ### 💼  Things that I'm currently working on: 
