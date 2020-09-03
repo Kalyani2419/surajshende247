@@ -17,10 +17,6 @@ A student at Lovely Professional University,Jalandhar, India, pursuing bachelorâ
 I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction.
-* Read a book a week
-* Workout 3 days in a row and take a day break 
-* Avoid the over using social media
-* Adapting the minimalism life style
 * ðŸ”œ
 
 <!--
