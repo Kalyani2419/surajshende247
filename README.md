@@ -17,6 +17,7 @@ A student at Lovely Professional University,Jalandhar, India, pursuing bachelorâ
 I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction.
+* Do all the three contests every month on codechef.
 * ðŸ”œ
 
 <!--
