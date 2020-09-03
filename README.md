@@ -4,7 +4,7 @@
 
 A student at Lovely Professional University,Jalandhar, India, pursuing bachelor’s degree in Computer Science & Engineering. 👨🏻‍💻 
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="250" height="200" />
 
 ### 💼  Things that I'm currently working on: 
 * Doing bachelor's degree in Computer Science & Engineering
