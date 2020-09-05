@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 
 
 ## ⚡ Tech stacks currently using:
+
 <br>
 <br>
+
 ### Programming Languages
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
