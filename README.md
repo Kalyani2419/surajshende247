@@ -49,7 +49,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-**🌱 Looking forward to learn:** <br>
+
+### 🌱 Looking forward to learn: 
+<br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
@@ -58,8 +60,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+### 💬 Ask me about anything, I'll be happy to help!  <br>
+### 💬 My inbox is always open, Contact me 
 <br>
 <br> 
   <a href="https://in.linkedin.com/in/piyushp7pravin">
