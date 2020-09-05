@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 
-## ⚡ Tech stacks currently using
+## ⚡ Tech stacks currently using:
 <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### 🌱 Looking forward to learn: 
+### 🌱 Looking forward to learn 
 <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-### 💬 Ask me about anything, I'll be happy to help!  <br>
-### 💬 My inbox is always open, Contact me 
+### 💬 Ask me about anything, I'll be happy to help!: 
+<br>
+### 💬 My inbox is always open, Contact me:
 <br>
 <br> 
   <a href="https://in.linkedin.com/in/piyushp7pravin">
