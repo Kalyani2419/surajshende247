@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 
 ## ⚡ Tech stacks currently using:
+
+### 🌱 Looking forward to learn 
 <br>
 <br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### 🌱 Looking forward to learn 
+
 <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
