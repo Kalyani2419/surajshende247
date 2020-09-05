@@ -100,12 +100,16 @@ Just a student who loves to write code.
   </a>
   
  
+ <br><br>
+ 
  ### 🌱 Challenges that I’m currently challenging myself:
 I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction.
 * Do all the three contests every month on codechef.
  
+ 
+ <br>
  
  ###  Looking forward to learn:
 
@@ -114,8 +118,7 @@ I set a couple self-challenges in order to push myself more further.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<br>
-<br>
+
 
 
 
