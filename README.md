@@ -90,16 +90,16 @@ Here are some ideas to get you started:
    <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
   
-   <a href="https://www.linkedin.com/in/surajshende247/" target="_blank">
-   <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  
    <a href="https://www.instagram.com/suraj_247/" target="_blank">
    <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   
    <a href="mailto:surajshende247@gmail.com" target="_blank">
    <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  
+  <a href="https://twitter.com/surajshende247/" target="_blank">
+   <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
  
 <br>
