@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![Android](https://img.shields.io/badge/-Android-ffa64d?style=flat-square&logo=android)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
