@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/surajshende247/surajshende247">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajshende247&layout=compact&count_private=true"/>
