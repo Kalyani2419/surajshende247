@@ -45,15 +45,6 @@ Just a student who loves to write code.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <br>
 
-###  Looking forward to learn:
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<br>
-<br>
 
 
 
@@ -81,11 +72,7 @@ Just a student who loves to write code.
 </a>
 
 
-### 🌱 Challenges that I’m currently challenging myself:
-I set a couple self-challenges in order to push myself more further. 
 
-* Learn to code 6-9 hours a day with no distraction.
-* Do all the three contests every month on codechef.
 
 
 ### 💬 Ask me about anything, I'll be happy to help!: 
@@ -113,7 +100,23 @@ I set a couple self-challenges in order to push myself more further.
   </a>
   
  
+ ### 🌱 Challenges that I’m currently challenging myself:
+I set a couple self-challenges in order to push myself more further. 
+
+* Learn to code 6-9 hours a day with no distraction.
+* Do all the three contests every month on codechef.
  
+ 
+ ###  Looking forward to learn:
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<br>
+<br>
+
 
 
 
