@@ -47,7 +47,7 @@ Just a student who loves to write code.
 
 
 
-
+<br>
 
 ## &#x1f4c8; Awesome Projects:
 
@@ -60,6 +60,7 @@ Just a student who loves to write code.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=laptop_repairing_shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+<br>
 
 ## &#x1f4c8; My GitHub Stats
 
