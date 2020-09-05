@@ -120,14 +120,14 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=surajshende247&count_private=true&show_icons=true alt="Suraj's GitHub Stats" />
 </a>
 
-<!--a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<!--a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a-->    
+</a>    
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajshende247.surajshende247)
