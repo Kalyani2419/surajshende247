@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 ## ⚡ Tech stacks currently using:
 
-<br>
 
 ###  Languages:
 
@@ -76,28 +75,17 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br>
-
-
+<br>
 
 
 ### 💬 Ask me about anything, I'll be happy to help!: 
 
-### 💬 My inbox is always open, Contact me:
 
-<br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/surajshende247/" target="_blank">
+   <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/PiyushP7pravin">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/piyushp7pravin/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
+ 
 <br>
 <br>
 
