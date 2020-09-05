@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 
-### ⚡ Tech stacks currently using
+## ⚡ Tech stacks currently using
 <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
