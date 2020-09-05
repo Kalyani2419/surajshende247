@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ###  Technologies
 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <br>
 
 ###  Tools
