@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br>
 
 
-###  Languages
+###  Tools
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
