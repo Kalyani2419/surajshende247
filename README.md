@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-
 <br>
 
 
@@ -58,6 +57,15 @@ Here are some ideas to get you started:
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br>
+
+###  Tools
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
