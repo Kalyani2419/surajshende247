@@ -57,24 +57,7 @@ Just a student who loves to write code.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=laptop_repairing_shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-### 📢 Find me elsewhere
-<p align="center">
-  <a href="https://www.codechef.com/users/surajshende247">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://leetcode.com/surajshende247/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.hackerrank.com/suraj247">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>
  
-</p>
-
-<br>
-<br>
 
 ## &#x1f4c8; GitHub Stats:
 
