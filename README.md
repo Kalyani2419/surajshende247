@@ -5,6 +5,17 @@
 Just a student who loves to write code.
 
 
+## :computer: :satellite: Awesome Projects:
+
+<a href="https://github.com/surajshende247/InnovativeCanvas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=InnovativeCanvas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/surajshende247/laptop_repairing_shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=laptop_repairing_shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 ### 💼  Things that I'm currently working on: 
 * Doing bachelor's degree in Computer Science & Engineering
 * Working on Machine Learning concepts.
@@ -45,18 +56,6 @@ Just a student who loves to write code.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <br>
 <br>
-
-## :computer: :satellite: Awesome Projects:
-
-<a href="https://github.com/surajshende247/InnovativeCanvas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=InnovativeCanvas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/surajshende247/laptop_repairing_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=laptop_repairing_shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
  
 
 ## &#x1f4c8; GitHub Stats:
