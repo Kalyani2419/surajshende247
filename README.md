@@ -4,7 +4,7 @@
 
 Just a student who loves to write code.
 
-<!--
+
 ## :computer: :satellite: Awesome Projects:
 
 <a href="https://github.com/surajshende247/Innovative_Learning">
@@ -117,7 +117,6 @@ I set a couple self-challenges in order to push myself more further.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 
 
--->
 
 
 
