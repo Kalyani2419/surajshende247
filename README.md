@@ -49,7 +49,7 @@ Just a student who loves to write code.
    <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
   
-   <a href="https://www.instagram.com/suraj_247/" target="_blank">
+   <a href="https://www.instagram.com/surajshende_247/" target="_blank">
    <img align="left" alt="" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   
