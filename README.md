@@ -16,13 +16,7 @@ Just a student who loves to write code.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajshende247&repo=laptop_repairing_shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-### 💼  Things that I'm currently working on: 
-* Doing bachelor's degree in Computer Science & Engineering
-* Working on Machine Learning concepts.
-* Creating awesome videos on Android Development for my YouTube Channel
-* Doing InterviewBit course on Programming
  
-
 ## &#x1f4c8; GitHub Stats:
 
 <a href="https://github.com/surajshende247/surajshende247">
