@@ -13,4 +13,6 @@ Just a student who loves to write code.
 
 <a href="https://github.com/surajshende247/surajshende247">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=surajshende247&count_private=true&show_icons=true alt="Suraj's GitHub Stats" />
-</a>
+</a>                                                                                                                                    
+                                                                                                                                         ##  My Github Status 👩🏻‍💻
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=surajshende247" />
