@@ -2,6 +2,18 @@
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Shende</h1>
 <h3 align="center"></h3>
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Medical Pager Chat App](https://github.com/surajshende247/medical-pager-chat)**
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/surajshende247?tab=repositories)**
+
+- 📫 How to reach me **surajshende247@gmail.com**
+
+- ⚡ Fun fact ****
  
 <p align="center">
   <a>
