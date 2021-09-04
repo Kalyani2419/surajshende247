@@ -13,7 +13,11 @@
 
 - 📫 How to reach me **surajshende247@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact 
+
+<br>
+
+#
  
 <p align="center">
   <a>
