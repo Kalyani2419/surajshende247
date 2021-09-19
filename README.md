@@ -5,8 +5,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Medical Pager Chat App](https://github.com/surajshende247/medical-pager-chat)**
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/surajshende247?tab=repositories)**
